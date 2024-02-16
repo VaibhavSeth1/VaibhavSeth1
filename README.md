@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaibhavSeth1
 - 👀 I’m interested in Coding and 3D arts.
 - 🌱 I’m currently learning Coding and 3D arts.
-- 💞️ I’m looking to collaborate on 3D arts projects or coding projects as well.
+- 💞️ I’m looking to collaborate on 3D art projects or coding projects as well.
 - 📫 You can easily contact me on IG : https://www.instagram.com/_.ig_vaibhav._/
 - 🎓  I am pursuing my undergraduate studies in CS.
 
