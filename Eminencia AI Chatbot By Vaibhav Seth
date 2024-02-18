@@ -1,0 +1,248 @@
+#include <stdio.h>
+#include <conio.h>
+#include <string.h>
+#include <math.h>
+#include <time.h>
+ int main()
+{
+	  double i,j,k,l,m,o,y=1;
+    char question[100],op;
+    float n,r=0,z=0,p=0,q=0;
+    
+    printf("Hello Sir,\nWelcome to personal AI assistant 'Hico' \nHow can I help you?");
+    
+    printf("\nplease type.\n");
+    printf("•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••");
+START:
+    printf("\nEnter the operation or question :\n");
+    gets(question);
+    if(strcmp(question,"hi") == 0 
+    || strcmp(question,"hello") == 0 
+    || strcmp(question,"hey") == 0) 
+
+    {
+        printf("\nHello sir, \nHow can we help you?\n");
+    }
+    else if(strcmp(question,"how are you") == 0 || strcmp(question,"how are you?") == 0
+     || strcmp(question,"how're you?") == 0 
+    || strcmp(question,"how's you?") == 0 
+    || strcmp(question,"how's you") == 0 
+    || strcmp(question,"how're you") == 0 
+    || strcmp(question,"how do you do?") == 0
+     || strcmp(question,"how do you do") == 0)
+    {
+    	printf("\nI am totally fine! What about you sir?\n");
+
+    }
+    
+//square root
+    
+    
+else if(strcmp(question,"sqrt") == 0 
+    || strcmp(question,"square root of number") == 0 
+    || strcmp(question,"square root of no.") == 0
+     || strcmp(question,"i want to find square root of a number") == 0 
+    || strcmp(question,"i want to find square root of a no.") == 0 
+    || strcmp(question,"√") == 0)
+    
+    
+// program square root
+    
+   
+ {
+ printf("Enter the number for find the square root of it:\n");
+ scanf("%f",&n);
+ 
+ (z=sqrt(n));
+ printf("square root of number is %f\n", z );
+    		}
+    		
+    		
+    		
+//cube root
+    		
+    		
+    		
+
+ 
+  else if(strcmp(question,"cube root") == 0 
+    		|| strcmp(question,"cube root of number") == 0 
+    		|| strcmp(question,"cube root of no.") == 0 
+    		|| strcmp(question,"cube root of a no.") == 0 
+    		|| strcmp(question,"cube root of a number") == 0 
+    		|| strcmp(question,"i want to find cube root of a number") == 0
+    		 ||	strcmp(question,"i want to find cube root of a no.") == 0 
+    		|| strcmp(question,"want to find cube root of a number") == 0 
+    		|| strcmp(question,"want to find cube root of a no.") == 0 )
+	
+ 
+ 
+ // *program cube root
+	
+ {
+    		
+printf("Enter the number for find the cube root of it:\n");
+ scanf("%f",&n);
+ 
+(z=cbrt(n));
+ 
+printf("Cube root of the number is %f\n", z );	
+
+  }
+  
+
+	
+ //Addition 
+ 
+ else if(strcmp(question,"addition") == 0 || strcmp(question,"add") == 0 || strcmp(question,"add no.") == 0 || strcmp(question,"add numbers") == 0 || strcmp(question,"addition of numbers") == 0 || strcmp(question,"Addition of no.") == 0 || strcmp(question,"adding numbers") == 0 || strcmp(question,"adding no.") == 0 || strcmp(question,"plus") == 0 || strcmp(question,"+") == 0)
+ 
+ 
+//program addition 
+ 
+
+{
+	
+printf("Enter the numbers you want to add");
+scanf("%lf%lf%lf%lf%lf%lf",&i,&j,&k,&l,&m,&o);
+{	
+(p=i+j+k+l+m+o);
+}
+{
+printf("Addition of numbers is\n%f ",p);
+}
+
+ }
+ 
+ 
+ 
+//subtraction
+
+else if(strcmp(question,"subtraction") == 0 || strcmp(question,"sub") == 0 || strcmp(question,"sub no.") == 0 || strcmp(question,"sub numbers") == 0 || strcmp(question,"subtraction of numbers") == 0 || strcmp(question,"subtraction of no.") == 0 || strcmp(question,"subtracting numbers") == 0 || strcmp(question,"subtracting no.") == 0 || strcmp(question,"subtract") == 0 || strcmp(question,"-") == 0 || strcmp(question,"minus") == 0 || strcmp(question,"minus no.") == 0 || strcmp(question,"minus numbers") == 0)
+
+
+
+//subtraction program
+
+
+ 
+{
+	
+printf("Enter the numbers you want to subtract");
+scanf("%lf%lf%lf%lf%lf%lf",&i,&j,&k,&l,&m,&o);
+{	
+(q=i-j-k-l-m-o);
+}
+{
+printf("subtraction of numbers is\n%f ",q);
+}
+
+ }
+ 
+//Time program
+
+
+else if(strcmp(question,"time") == 0 || strcmp(question,"current time") == 0 || strcmp(question,"right time") == 0 || strcmp(question,"what is the time now") == 0 ||
+strcmp(question,"what time now") == 0 || strcmp(question,"what is the time now?") == 0 ||
+strcmp(question,"what is the time") == 0 || strcmp(question,"what is the time ?") == 0 || 
+strcmp(question,"time now") == 0 || strcmp(question,"what time now?") == 0 ||
+strcmp(question,"what time now?") == 0)
+
+{
+ 
+	
+	time_t tt;
+	time(&tt);
+	
+	{
+	    
+	printf("\n\n %s: DAY/MM/DD/HRS/MIN/SEC/YY",ctime(&tt));
+	
+	}
+	
+	}  
+	                                                                                
+ 
+ 
+
+ //Calculator
+  
+  
+  
+else if(strcmp(question,"cal")  == 0 || strcmp(question,"calculator") == 0)
+  
+  
+  
+//program calculator
+  
+{
+		
+printf("enter the numbers :");
+scanf("%lf%lf%lf%lf",&i,&j,&k,&l);
+printf("enter an operation you want to do (+,-,*,/,): ");
+scanf("%c",&op);
+
+switch (op)
+{
+
+case'+':
+r=i+j;
+printf("answer is %f", r);
+break;
+
+case'-':
+r=i-j;
+printf("answer is %f", r);
+break;
+
+case'*':
+y=i*j;
+printf("answer is %lf", y);
+break;
+
+case'/':
+y=i/j;
+printf("answer is %lf", y);			
+	
+	
+break;
+
+default:
+printf("op is not valid");
+
+}
+return 0;
+}
+
+
+//next
+
+
+  		
+    else if(strcmp(question,"bye") == 0)
+    {
+        goto EXIT;
+    }
+    else
+    {
+        printf("Sorry sir. I can't understand what you want to say.\n");
+        printf("\nDo you have any other question?\n");
+        gets(question);
+ 
+        if(strcmp(question,"yes") == 0 )
+        {
+            goto START;
+        }
+        else if(strcmp(question,"no") == 0)
+        {
+            goto EXIT;
+        }
+    }
+ 
+    goto START;
+ 
+EXIT:
+    printf("Thank you so much for contact. Bye \nSee you soon...\n\n");
+    
+ 
+    return 0;
+}
