@@ -11,7 +11,7 @@
     char question[100],op;
     float n,r=0,z=0,p=0,q=0;
     
-    printf("Hello Sir,\nWelcome to personal AI assistant 'Hico' \nHow can I help you?");
+    printf("Hello Sir,\nWelcome to personal AI assistant 'Eminencia' \nHow can I help you?");
     
     printf("\nplease type.\n");
     printf("•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••");
