@@ -74,7 +74,7 @@
 
 ---
 
- <img src="./images/giphy.gif" width="400px" alt="Geek GIF">
+ <img align="center" src="./images/giphy.gif" width="500px" alt="Geek GIF">
       <p align="center"> this is me me this </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
