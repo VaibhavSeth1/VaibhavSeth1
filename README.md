@@ -72,4 +72,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)
 
+---
+
+ <img src="./images/giphy.gif" width="400px" alt="Geek GIF">
+      <p align="center"> this is me me this </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
