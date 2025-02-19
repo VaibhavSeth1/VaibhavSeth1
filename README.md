@@ -54,18 +54,9 @@ Here’s the corrected **Tech Stack** layout:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Recent Top Repositories  
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-1&theme=dark)](https://github.com/VaibhavSeth1/repo-1)  
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-2&theme=dark)](https://github.com/VaibhavSeth1/repo-2)  
-
-### 🏆 Contribution Stats  
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-[![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)  
-
-### 🔝 Recent Top Repositories  
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-1&theme=dark)](https://github.com/VaibhavSeth1/repo-1)  
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-2&theme=dark)](https://github.com/VaibhavSeth1/repo-2)  
+<!-- RECENT_REPOS -->
+Fetching latest repositories...
+<!-- END_RECENT_REPOS -->
 
 ### 🏆 Contribution Stats  
 ![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
