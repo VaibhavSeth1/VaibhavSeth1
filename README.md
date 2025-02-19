@@ -53,23 +53,25 @@ Here’s the corrected **Tech Stack** layout:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)
-
-### 🔝 Top Repositories  
-🔹 [**Repo Name 1**](https://github.com/VaibhavSeth1/repo-name-1)  
-🔹 [**Repo Name 2**](https://github.com/VaibhavSeth1/repo-name-2)  
-🔹 [**Repo Name 3**](https://github.com/VaibhavSeth1/repo-name-3)  
-🔹 [**Repo Name 4**](https://github.com/VaibhavSeth1/repo-name-4)  
-🔹 [**Repo Name 5**](https://github.com/VaibhavSeth1/repo-name-5)  
+### 🔝 Recent Top Repositories  
+[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-1&theme=dark)](https://github.com/VaibhavSeth1/repo-1)  
+[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-2&theme=dark)](https://github.com/VaibhavSeth1/repo-2)  
 
 ### 🏆 Contribution Stats  
 ![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)  
+
+### 🔝 Recent Top Repositories  
+[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-1&theme=dark)](https://github.com/VaibhavSeth1/repo-1)  
+[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=repo-2&theme=dark)](https://github.com/VaibhavSeth1/repo-2)  
+
+### 🏆 Contribution Stats  
+![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
+---
+[![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)  
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
