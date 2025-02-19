@@ -10,7 +10,7 @@
       ⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
     </td>
     <td align="right">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" alt="Geek GIF">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Geek GIF">
     </td>
   </tr>
 </table>
