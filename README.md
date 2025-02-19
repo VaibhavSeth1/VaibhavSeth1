@@ -53,11 +53,6 @@ Here’s the corrected **Tech Stack** layout:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Recent Top Repositories  
-<!-- RECENT_REPOS -->
-Fetching latest repositories...
-<!-- END_RECENT_REPOS -->
-
 ### 🏆 Contribution Stats  
 ![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
