@@ -1,18 +1,21 @@
+<!-- Geeky GIF on the Right -->
+<p align="right">
+  <img src="https://your-gif-link-here.com/geek.gif" width="250px" alt="Geek GIF" />
+</p>
+
 # 💫 About Me:
 👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>👯 I’m currently working on: Developing fully responsive websites & expanding my portfolio<br>🤝 I’m looking to collaborate on: Web development, 3D animation, rendering, and creative video editing projects<br>🌱 I’m currently learning: Advanced React.js, API integrations for web development, and Bootstrap<br>💬 Ask me about: Frontend web development, 3D art, Blender, video editing, and color grading<br>⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
 
-
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hbdWehJk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_zen.ronin_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav2001seth/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VaibhavSeth2k1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav2001seth@gmail.com) 
-
-
-You're right! **C and C++ are not version control tools**—that was a misplacement. They should be in a separate section under **Programming Languages** or removed if you’re not actively using them in your work.  
-
-Here’s the corrected **Tech Stack** layout:  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hbdWehJk) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zen.ronin_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav2001seth) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VaibhavSeth2k1) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav2001seth@gmail.com) 
 
 ---
 
-## 💻 **Tech Stack**  
+## 💻 **Tech Stack**
 
 ### 🚀 **Frontend Web Development**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -42,7 +45,7 @@ Here’s the corrected **Tech Stack** layout:
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaibhavSeth1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSeth1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSeth1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -53,11 +56,12 @@ Here’s the corrected **Tech Stack** layout:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏆 Contribution Stats  
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+### 🔝 Recent Top Repositories  
+[![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=Repo1&theme=dark)](https://github.com/VaibhavSeth1/Repo1)  
+[![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=VaibhavSeth1&repo=Repo2&theme=dark)](https://github.com/VaibhavSeth1/Repo2)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)  
 
+[![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
