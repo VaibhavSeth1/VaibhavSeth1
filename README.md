@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Banner" />
+  <img src="[https://your-image-link-here.com/banner.png](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+)" alt="Banner" />
 </p>
 
 # 💫 About Me:
