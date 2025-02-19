@@ -11,7 +11,7 @@
     </td>
     <td align="right">
       <img src="./images/giphy.gif" width="250px" alt="Geek GIF">
-      <p> this is me me this </p>
+      <p align="center"> this is me me this </p>
     </td>
   </tr>
 </table>
