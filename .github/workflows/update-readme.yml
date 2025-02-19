@@ -4,6 +4,9 @@ on:
   workflow_dispatch:  # Allows manual execution
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
+  push:
+    branches:
+      - main  # Runs when changes are pushed to the main branch
 
 jobs:
   update-readme:
