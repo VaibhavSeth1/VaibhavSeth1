@@ -1,6 +1,6 @@
 <!-- Geeky GIF on the Right -->
 <p align="right">
-  <img src="https://your-gif-link-here.com/geek.gif" width="250px" alt="Geek GIF" />
+  <img src="./images/d2p3srx-0e7edcc9-c89d-46be-a6af-194397dadc0a.gif" width="250px" alt="Geek GIF" />
 </p>
 
 # 💫 About Me:
