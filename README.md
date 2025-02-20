@@ -67,7 +67,7 @@
 
 
 ### 🎨 3D Art & Animation (Unisus Studios)
-- **[Unisus Studios 3D Art Page](https://vaibhavseth1.github.io/Unisus-Studios/)**  
+- **[Unisus Studios 3D Art Page Website](https://vaibhavseth1.github.io/Unisus-Studios/)**  
   My dedicated 3D art page under Unisus Studios, featuring character models, product renders, environment scenes, and animations.
 
 ### 🌱 Fresh Web Dev Resources  
