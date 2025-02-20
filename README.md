@@ -10,7 +10,7 @@
       👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>
       👯 I’m currently working on: Developing fully responsive websites & expanding my portfolio<br>
       🤝 I’m looking to collaborate on: Web development, 3D animation, rendering, and creative video editing projects<br>
-      🌱 I’m currently learning: Advanced React.js, API integrations for web development, and Bootstrap<br>
+      🌱 I’m currently learning: Web development and Advanced React.js, API integrations<br>
       💬 Ask me about: Frontend web development, 3D art, Blender, video editing, and color grading<br>
       ⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
     </td>
