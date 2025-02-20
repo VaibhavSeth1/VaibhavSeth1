@@ -5,8 +5,8 @@
 </h1>
 
 <!-- Table with no border -->
-<div style="display: inline; align-items: center; gap: 20px;">
-    <div>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+    <div style="max-width: 60%;">
         👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>
         👯 I’m currently working on: Developing fully responsive websites & expanding my portfolio<br>
         🤝 I’m looking to collaborate on: Web development, 3D animation, rendering, and creative video editing projects<br>
@@ -14,8 +14,9 @@
         💬 Ask me about: Frontend web development, 3D art, Blender, video editing, and color grading<br>
         ⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
     </div>
-    <img src="./images/qgQUggAC3Pfv687qPC.webp" width="250px" alt="Geek GIF">
+    <img src="./images/qgQUggAC3Pfv687qPC.webp" width="250px" alt="Geek GIF" style="border: none;">
 </div>
+
 
 
 ## 🌐 Socials:
