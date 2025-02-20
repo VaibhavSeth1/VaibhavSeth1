@@ -13,7 +13,7 @@
         🌱 I’m currently learning: Advanced React.js, API integrations for web development, and Bootstrap<br>
         💬 Ask me about: Frontend web development, 3D art, Blender, video editing, and color grading<br>
         ⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
-    </div>
+    </div align="right">
     <img src="./images/qgQUggAC3Pfv687qPC.webp" width="250px" alt="Geek GIF">
 </div>
 
