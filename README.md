@@ -78,13 +78,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
-      <p>"Lol, who leaked my footage? Sometimes, this is just me with my laptop. 😆"</p>
-</div>
-
  <br clear="both">
 <img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
 ###
+
+<div align="center">
+  <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
+      <p>"Lol, how do I stop this snake from devouring my tiny GitHub contributions? I worked hard for those pixels! 🐍😂😆"</p>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
