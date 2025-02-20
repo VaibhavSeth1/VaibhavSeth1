@@ -5,7 +5,7 @@
 </h1>
 
 <!-- Table with no border -->
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: inline-flex; align-items: center; gap: 20px;">
     <div>
         👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>
         👯 I’m currently working on: Developing fully responsive websites & expanding my portfolio<br>
