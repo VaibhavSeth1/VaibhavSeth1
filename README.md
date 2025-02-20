@@ -82,6 +82,11 @@
   <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
       <p>"Lol, who leaked my footage? Sometimes, this is just me with my laptop. 😆"</p>
 </div>
- 
+
+ <br clear="both">
+
+<img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
