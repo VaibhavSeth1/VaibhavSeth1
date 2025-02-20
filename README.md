@@ -65,7 +65,6 @@
 - **[My Portfolio Website](https://vaibhavseth1.github.io/Vaibhav-Seth-Frontend-Developer-Portfolio/)**  
   A personal website showcasing my skills, projects, and experiences. Built with modern web technologies like React and Bootstrap.
 
----
 
 ### 🎨 3D Art & Animation (Unisus Studios)
 - **[Unisus Studios 3D Art Page](https://vaibhavseth1.github.io/Unisus-Studios/)**  
@@ -79,9 +78,6 @@ Since I’m growing as a **Frontend Developer**, here are some useful resources 
 - [MDN Docs](https://developer.mozilla.org/en-US/) 📚  
 
 ---
-
-🚀 *More projects and 3D work coming soon! Stay tuned!* 😃
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaibhavSeth1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
