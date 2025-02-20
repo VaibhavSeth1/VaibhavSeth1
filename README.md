@@ -84,11 +84,7 @@
 </div>
 
  <br clear="both">
-
 <img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
-
-![snake gif](https://github.com/VaibhavSeth1/VaibhavSeth1/blob/output/github-snake-dark.svg)
-
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
