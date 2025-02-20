@@ -100,7 +100,6 @@ Since I’m growing as a **Frontend Developer**, here are some useful resources 
 ![](https://github-contributor-stats.vercel.app/api?username=VaibhavSeth1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
 
