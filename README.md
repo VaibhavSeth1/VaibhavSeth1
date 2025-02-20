@@ -5,7 +5,7 @@
 </h1>
 
 <!-- Table with no border -->
-<div style="display: inline-flex; align-items: center; gap: 20px;">
+<div style="display: inline; align-items: center; gap: 20px;">
     <div>
         👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>
         👯 I’m currently working on: Developing fully responsive websites & expanding my portfolio<br>
@@ -13,7 +13,7 @@
         🌱 I’m currently learning: Advanced React.js, API integrations for web development, and Bootstrap<br>
         💬 Ask me about: Frontend web development, 3D art, Blender, video editing, and color grading<br>
         ⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
-    </div align="right">
+    </div>
     <img src="./images/qgQUggAC3Pfv687qPC.webp" width="250px" alt="Geek GIF">
 </div>
 
