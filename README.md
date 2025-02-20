@@ -4,10 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Seth!;" />
 </h1>
 
-<!-- Table with no border -->
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none; padding: 0;">
+    <td>
       👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>
       👯 I’m currently working on: Developing fully responsive websites & expanding my portfolio<br>
       🤝 I’m looking to collaborate on: Web development, 3D animation, rendering, and creative video editing projects<br>
@@ -15,13 +14,11 @@
       💬 Ask me about: Frontend web development, 3D art, Blender, video editing, and color grading<br>
       ⚡ Fun fact: I created an online food ordering website, Spicy Sizzle, and a cat dating app, Catinder! 😸
     </td>
-    <td style="border: none; padding: 0; align="right"">
+    <td align="right">
       <img src="./images/qgQUggAC3Pfv687qPC.webp" width="250px" alt="Geek GIF">
     </td>
   </tr>
 </table>
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hbdWehJk) 
@@ -79,12 +76,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<br clear="both">
+ <br clear="both">
 <img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
-  <h4>Lol, how do I stop this snake from devouring my tiny GitHub contributions? I worked hard for those pixels! 🐍😂😆</h4>
+      <h4>Lol, how do I stop this snake from devouring my tiny GitHub contributions? I worked hard for those pixels! 🐍😂😆</h4>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
