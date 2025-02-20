@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Seth!;" />
 </h1>
 
+<!-- Table with no border -->
 <table style="border: none;">
->
   <tr>
     <td>
       👨‍💻 I’m a Web Developer, 3D Artist & Animator, and Video Editor<br>
@@ -77,12 +77,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavSeth1&icon=10&color=0)](https://visitcount.itsvg.in)
 
- <br clear="both">
+<br clear="both">
 <img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
-      <h4>Lol, how do I stop this snake from devouring my tiny GitHub contributions? I worked hard for those pixels! 🐍😂😆</h4>
+  <h4>Lol, how do I stop this snake from devouring my tiny GitHub contributions? I worked hard for those pixels! 🐍😂😆</h4>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
