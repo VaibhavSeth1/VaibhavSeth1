@@ -54,6 +54,8 @@
 - **[My Portfolio Website](https://vaibhavseth1.github.io/Vaibhav-Seth-Frontend-Developer-Portfolio/)**  
   A personal website showcasing my skills, projects, and experiences. Built with modern web technologies like React and Bootstrap.
 
+- **[MRID Headphones Website](https://vaibhavseth1.github.io/MRID-Website/)**  
+  A minimalist frontend design for a premium headphone brand. Built with HTML, CSS, Bootstrap, and JavaScript — showcasing clean layout, responsive design, and product highlights.
 
 ### 🎨 3D Art & Animation (Unisus Studios)
 - **[Unisus Studios 3D Art Page Website](https://vaibhavseth1.github.io/Unisus-Studios/)**  
@@ -90,7 +92,7 @@ Since I’m growing as a **Frontend Developer**, here are some useful resources 
 
 ---
 
-<img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/VaibhavSeth1/VaibhavSeth1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
