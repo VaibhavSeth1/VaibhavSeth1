@@ -92,7 +92,8 @@ Since I’m growing as a **Frontend Developer**, here are some useful resources 
 
 ---
 
-<img src="https://github.com/VaibhavSeth1/VaibhavSeth1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VaibhavSeth1/VaibhavSeth1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   <img src="./images/giphy.gif" width="500px" alt="Geek GIF">
